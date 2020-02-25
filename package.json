@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-app-demo",
+  "version": "1.0.0",
+  "description": "nodejs app demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharathKumarMurugan/nodejs-docker-demo-sharks-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "author": "Bharath Kumar Murugan <mail.bharath92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BharathKumarMurugan/nodejs-docker-demo-sharks-app/issues"
+  },
+  "homepage": "https://github.com/BharathKumarMurugan/nodejs-docker-demo-sharks-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
